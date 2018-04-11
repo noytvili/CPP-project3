@@ -7,5 +7,6 @@ In addition, the system remembers how many active members there are in the syste
 A main.cpp file was added to the main program with several tests. 
 
 Compile instructions:
+
 clang++-5.0 -std=c++11 *.cpp
 g++ -std=c++11 *.cpp
