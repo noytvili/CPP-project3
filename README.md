@@ -1,10 +1,5 @@
 "# CPP-project3" 
-<<<<<<< HEAD
-"# CPP-project4" 
-"# CPP-project4" 
-"# CPP-project4" 
-"# CPP-project4" 
-"# CPP-project4" 
+
 =======
 
 
@@ -21,7 +16,4 @@ Compile instructions:
 clang++-5.0 -std=c++11 *.cpp
 
 g++ -std=c++11 *.cpp
->>>>>>> 4039ab8f847432c85cf8cab56232d10f4b597436
-"# Process-Monitor" 
-"# Process_Monitor" 
-"# Project_8" 
+
